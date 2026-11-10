@@ -1,0 +1,1 @@
+# starrcoin.sol
